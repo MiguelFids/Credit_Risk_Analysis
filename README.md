@@ -27,5 +27,3 @@ Below are the balanced accuracy score and the precision and recall scores of all
 ![EasyEnsembleClassifier](img/EEC.png)
 
 ## Summary
-
-It appears that the Easy Ensemble Classifier was the best choice to use to predict low or high risk scores. It scores a perfect 100% in all categories. 
